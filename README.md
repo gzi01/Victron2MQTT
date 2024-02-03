@@ -19,10 +19,12 @@ Little Program for ESP82XX to get the Victron data to web and MQTT
 
 ![grafik](https://github.com/softwarecrash/Victron2MQTT/assets/44615614/6943ef5d-8711-4b32-bbd0-80278a6f50fa)
 
+Click "Durchsuchen..." to select a .bin file and "Update" to flash the device.
 
 **Config:**
 
 ![grafik](https://github.com/softwarecrash/Victron2MQTT/assets/44615614/64aaa883-aee1-40b9-8e8a-ead788fbf70a)
+
 
 **MQTT Data**
 
